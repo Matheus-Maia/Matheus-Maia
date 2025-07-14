@@ -59,7 +59,6 @@ Tenho explorado cada vez mais áreas que me instigam como **cibersegurança**, *
 ## 📫 Contato
 
 - 💻 GitHub: [matheus-maia](https://github.com/Matheus-Maia)  
-- 💼 LinkedIn: [linkedin.com/in/matheus-maia-bonfacio](https://linkedin.com/in/Matheus-Maia)  
 - ✉️ Email: matheusmaiadev535@gmail.com  
 
 ---
