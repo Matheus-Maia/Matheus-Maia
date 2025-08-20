@@ -1,7 +1,7 @@
 # 👨‍💻 Matheus Maia Bonfacio | Dev + Infraestrutura + Segurança
 
 🎓 Estudante de Ciência da Computação | 💼 Estagiário na Systrix Tecnologia  
-🚀 Backend • Infraestrutura • DevOps • Cibersegurança  
+🚀 Backend • Frontend • Infraestrutura • DevOps • Cibersegurança  
 📍 São José dos Campos, SP
 
 ---
