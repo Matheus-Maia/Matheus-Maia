@@ -10,7 +10,7 @@
 
 Gosto de resolver problemas com código. Gosto de criar soluções que realmente funcionam — com infraestrutura sólida, automação e segurança de verdade.
 
-Hoje sou o único dev da Systrix Tecnologia, onde tenho a liberdade (e a responsabilidade) de liderar projetos internos: desde sistemas de monitoramento e backup até aplicações web completas em Django.
+Hoje souv dev da Systrix Tecnologia, onde tenho a liberdade (e a responsabilidade) de liderar projetos internos: desde sistemas de monitoramento e backup até aplicações web completas em Django.
 
 Tenho explorado cada vez mais áreas que me instigam como **cibersegurança**, **LLMs locais**, **data science** e **desenvolvimento multiplataforma com Kotlin** — sempre com o foco em aprender fazendo e aplicar na prática.
 
@@ -20,7 +20,7 @@ Tenho explorado cada vez mais áreas que me instigam como **cibersegurança**, *
 
 - **Backend:** Python, Django, Django REST Framework  
 - **DevOps & Infra:** Linux (Arch, Alpine, Ubuntu), Docker, Zabbix, Grafana, Bacula, MQTT  
-- **Frontend:** Angular, Redux (básico)  
+- **Frontend:** HTM, CSS , JS
 - **Banco de Dados:** PostgreSQL, MySQL  
 - **Outros:** Git, GitHub, JHipster, C++, Java  
 
