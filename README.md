@@ -105,24 +105,6 @@ Ferramenta visual interativa para simulação de algoritmos de escalonamento de 
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Matheus-Maia&show_icons=true&theme=dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" 
-    width="400" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Maia&layout=compact&langs_count=8&hide_progress=true&theme=dark&hide_border=true" 
-    width="400" 
-  />
-</div>
-
-
----
-
 ## 🌱 Atualmente explorando
 
 - 🧠 **Cibersegurança e hacking ético** — OWASP, pentesting, análise de vulnerabilidades
