@@ -122,7 +122,6 @@ Ferramenta visual interativa para simulação de algoritmos de escalonamento de 
   
 [![GitHub](https://img.shields.io/badge/GitHub-Matheus--Maia-181717?style=for-the-badge&logo=github)](https://github.com/Matheus-Maia)
 [![Email](https://img.shields.io/badge/Email-matheusmaiadev535%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusmaiadev535@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Maia-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheus-maia)
 
 </div>
 
