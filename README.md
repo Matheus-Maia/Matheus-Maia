@@ -85,7 +85,8 @@ Desenvolvedor Full Stack com foco em **backend Python/Django** e **infraestrutur
 
 | | |
 |:---|:---|
-| **Ciência da Computação** | Cursando |
+| **Ciência da Computação** | UFBRA · 3º semestre |
+| **Téc. Análise e Desenvolvimento de Sistemas** | SENAI Santos Dumont · Concluído |
 | **Python Testing Path** | Test Automation University — Applitools |
 | **TDD com Django** | *Obey the Testing Goat* — Harry Percival |
 | **Automated Software Testing** | DelftX / edX |
